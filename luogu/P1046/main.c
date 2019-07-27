@@ -22,6 +22,7 @@ int main()
 #endif
     int a, b[10], count = 0;
     int height = 0;
+    
     for (int i = 0; i < 10; i++)
     {
         scanf("%d", &b[i]);
